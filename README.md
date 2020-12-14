@@ -1,4 +1,7 @@
-# online_course_app_ui
+# Online Course App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/gKljobD3oWE)
 
 ![Online_Course App UI](https://user-images.githubusercontent.com/16510597/93712575-edaac980-fb80-11ea-88fd-edffd7898d9d.jpg)
 
